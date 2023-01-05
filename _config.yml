@@ -4,8 +4,8 @@ author:
   name: Maxim Gutjahr
   email: "contact@maximgutjahr.com"
 
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: auto
