@@ -1,0 +1,10 @@
+title: Maxim Gutjahr News
+description: News & announcements from Maxim Gutjahr himself!
+author:
+  name: Maxim Gutjahr
+  email: "contact@maximgutjahr.com"
+
+#remote_theme: jekyll/minima
+minima:
+  skin: auto
+  date_format: "%B %d, %Y"
