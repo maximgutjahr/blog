@@ -5,16 +5,17 @@ author:
   name: Maxim Gutjahr
   email: "contact@maximgutjahr.com"
 
-social-network-links:
-  twitter: maxim_gtjhr
-  youtube: c/MaximGutjahr
-  spotify: GRAVEYARDGOD
-  discord: users/824294179210526801
-  
-date_format: "%B %d, %Y"
-
 #theme: minima
 remote_theme: jekyll/minima
 
 minima:
   skin: auto
+  date_format: "%B %d, %Y"
+
+  social_links:
+    - platform: twitter
+      user_url: "https://twitter.com/maxim_gtjhr"
+    - platform: instagram
+      user_url: "https://github.com/jekyll/jekyll"
+    - platform: youtube
+      user_url: "https://www.youtube.com/channel/UCUTZjJieqc4e80GR0xuct6A"
