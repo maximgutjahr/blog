@@ -17,3 +17,7 @@ minima:
       user_url: "https://twitter.com/maxim_gtjhr"
     - platform: youtube
       user_url: "https://www.youtube.com/channel/UCUTZjJieqc4e80GR0xuct6A"
+    - platform: spotify
+      user_url: "https://open.spotify.com/artist/1xzSqcfgxHBsFuQExfwbao"
+    - platform: discord
+      user_url: "https://discord.com/users/260435291821703168"
