@@ -5,6 +5,9 @@ author:
   name: Maxim Gutjahr
   email: "contact@maximgutjahr.com"
 
+avatar: "logo.png"
+round-avatar: false
+
 #theme: minima
 remote_theme: jekyll/minima
 
